@@ -1,2 +1,2 @@
 
-[](random.jpg)
+![](random.jpg)
